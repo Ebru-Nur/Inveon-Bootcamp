@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\OCP",
+    "\\OCP\\WithOCP",
+    "\\OCP\\WithoutOCP"
+  ],
+  "SelectedNode": "\\OCP\\WithOCP\\Worker.cs",
+  "PreviewInSolutionExplorer": false
+}

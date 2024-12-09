@@ -1,0 +1,7 @@
+D:\Kodlama\Inveon\1. Hafta\Hafta1\bin\Debug\Hafta1.exe.config
+D:\Kodlama\Inveon\1. Hafta\Hafta1\bin\Debug\Hafta1.exe
+D:\Kodlama\Inveon\1. Hafta\Hafta1\bin\Debug\Hafta1.pdb
+D:\Kodlama\Inveon\1. Hafta\Hafta1\obj\Debug\Hafta1.csproj.AssemblyReference.cache
+D:\Kodlama\Inveon\1. Hafta\Hafta1\obj\Debug\Hafta1.csproj.CoreCompileInputs.cache
+D:\Kodlama\Inveon\1. Hafta\Hafta1\obj\Debug\Hafta1.exe
+D:\Kodlama\Inveon\1. Hafta\Hafta1\obj\Debug\Hafta1.pdb

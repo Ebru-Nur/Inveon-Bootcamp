@@ -1,0 +1,556 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|d:\\kodlama\\inveon\\1. hafta\\hafta1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|d:\\kodlama\\inveon\\1. hafta\\hafta1\\dip\\dip\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:dip\\dip\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|d:\\kodlama\\inveon\\1. hafta\\hafta1\\dip\\dip\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:dip\\dip\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|d:\\kodlama\\inveon\\1. hafta\\hafta1\\dip\\dip\\havale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:dip\\dip\\havale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|d:\\kodlama\\inveon\\1. hafta\\hafta1\\dip\\dip\\bitcoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:dip\\dip\\bitcoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|d:\\kodlama\\inveon\\1. hafta\\hafta1\\dip\\withoutdip\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:dip\\withoutdip\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|d:\\kodlama\\inveon\\1. hafta\\hafta1\\dip\\withoutdip\\paymentprocessorwithoutdip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:dip\\withoutdip\\paymentprocessorwithoutdip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|d:\\kodlama\\inveon\\1. hafta\\hafta1\\isp\\withisp\\icontractedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:isp\\withisp\\icontractedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\isp\\withisp\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:isp\\withisp\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\isp\\withisp\\ifulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:isp\\withisp\\ifulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\isp\\withoutisp\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:isp\\withoutisp\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\isp\\withoutisp\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:isp\\withoutisp\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\isp\\withoutisp\\contractedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:isp\\withoutisp\\contractedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\srp\\productservicewithoutsrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:srp\\productservicewithoutsrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\lsp\\withlsp\\milkcoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:lsp\\withlsp\\milkcoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\lsp\\withlsp\\latte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:lsp\\withlsp\\latte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\lsp\\withlsp\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:lsp\\withlsp\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\lsp\\withlsp\\blackcoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:lsp\\withlsp\\blackcoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\lsp\\withlsp\\americano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:lsp\\withlsp\\americano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ocp\\withocp\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:ocp\\withocp\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ocp\\withocp\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:ocp\\withocp\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ocp\\withoutocp\\directorwithoutocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:ocp\\withoutocp\\directorwithoutocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ocp\\withoutocp\\salarywithoutocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:ocp\\withoutocp\\salarywithoutocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ocp\\withoutocp\\workerwithoutocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:ocp\\withoutocp\\workerwithoutocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\srp\\sellingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:srp\\sellingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\srp\\selling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:srp\\selling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\srp\\productservicesrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:srp\\productservicesrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\srp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:srp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ocp\\withocp\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:ocp\\withocp\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ocp\\withocp\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:ocp\\withocp\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\lsp\\withoutlsp\\latte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:lsp\\withoutlsp\\latte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\lsp\\withoutlsp\\americano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:lsp\\withoutlsp\\americano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\lsp\\withoutlsp\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CC1439-7453-431A-9B1C-A1D12626BD9F}|Hafta1.csproj|solutionrelative:lsp\\withoutlsp\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:37:16.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPaymentMethod.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\DIP\\DIP\\IPaymentMethod.cs",
+              "RelativeDocumentMoniker": "DIP\\DIP\\IPaymentMethod.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\DIP\\DIP\\IPaymentMethod.cs",
+              "RelativeToolTip": "DIP\\DIP\\IPaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:27:06.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\DIP\\DIP\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "DIP\\DIP\\PaymentProcessor.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\DIP\\DIP\\PaymentProcessor.cs",
+              "RelativeToolTip": "DIP\\DIP\\PaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:27:04.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Havale.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\DIP\\DIP\\Havale.cs",
+              "RelativeDocumentMoniker": "DIP\\DIP\\Havale.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\DIP\\DIP\\Havale.cs",
+              "RelativeToolTip": "DIP\\DIP\\Havale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:27:02.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bitcoin.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\DIP\\DIP\\Bitcoin.cs",
+              "RelativeDocumentMoniker": "DIP\\DIP\\Bitcoin.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\DIP\\DIP\\Bitcoin.cs",
+              "RelativeToolTip": "DIP\\DIP\\Bitcoin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:26:59.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreditCard.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\DIP\\WithoutDIP\\CreditCard.cs",
+              "RelativeDocumentMoniker": "DIP\\WithoutDIP\\CreditCard.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\DIP\\WithoutDIP\\CreditCard.cs",
+              "RelativeToolTip": "DIP\\WithoutDIP\\CreditCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:26:49.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentProcessorWithoutDIP.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\DIP\\WithoutDIP\\PaymentProcessorWithoutDIP.cs",
+              "RelativeDocumentMoniker": "DIP\\WithoutDIP\\PaymentProcessorWithoutDIP.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\DIP\\WithoutDIP\\PaymentProcessorWithoutDIP.cs",
+              "RelativeToolTip": "DIP\\WithoutDIP\\PaymentProcessorWithoutDIP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:26:46.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IContractedEmployee.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ISP\\WithISP\\IContractedEmployee.cs",
+              "RelativeDocumentMoniker": "ISP\\WithISP\\IContractedEmployee.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ISP\\WithISP\\IContractedEmployee.cs",
+              "RelativeToolTip": "ISP\\WithISP\\IContractedEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:15:33.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFullTimeEmployee.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ISP\\WithISP\\IFullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "ISP\\WithISP\\IFullTimeEmployee.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ISP\\WithISP\\IFullTimeEmployee.cs",
+              "RelativeToolTip": "ISP\\WithISP\\IFullTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:13:49.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IWorker.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ISP\\WithISP\\IWorker.cs",
+              "RelativeDocumentMoniker": "ISP\\WithISP\\IWorker.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ISP\\WithISP\\IWorker.cs",
+              "RelativeToolTip": "ISP\\WithISP\\IWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:13:10.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Latte.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\LSP\\WithLSP\\Latte.cs",
+              "RelativeDocumentMoniker": "LSP\\WithLSP\\Latte.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\LSP\\WithLSP\\Latte.cs",
+              "RelativeToolTip": "LSP\\WithLSP\\Latte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:25:32.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MilkCoffee.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\LSP\\WithLSP\\MilkCoffee.cs",
+              "RelativeDocumentMoniker": "LSP\\WithLSP\\MilkCoffee.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\LSP\\WithLSP\\MilkCoffee.cs",
+              "RelativeToolTip": "LSP\\WithLSP\\MilkCoffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:19:35.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContractedEmployee.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ISP\\WithoutISP\\ContractedEmployee.cs",
+              "RelativeDocumentMoniker": "ISP\\WithoutISP\\ContractedEmployee.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ISP\\WithoutISP\\ContractedEmployee.cs",
+              "RelativeToolTip": "ISP\\WithoutISP\\ContractedEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:54:24.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ISP\\WithoutISP\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "ISP\\WithoutISP\\FullTimeEmployee.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ISP\\WithoutISP\\FullTimeEmployee.cs",
+              "RelativeToolTip": "ISP\\WithoutISP\\FullTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:53:42.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IWorker.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ISP\\WithoutISP\\IWorker.cs",
+              "RelativeDocumentMoniker": "ISP\\WithoutISP\\IWorker.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\ISP\\WithoutISP\\IWorker.cs",
+              "RelativeToolTip": "ISP\\WithoutISP\\IWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:49:12.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\LSP\\WithLSP\\Coffee.cs",
+              "RelativeDocumentMoniker": "LSP\\WithLSP\\Coffee.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\LSP\\WithLSP\\Coffee.cs",
+              "RelativeToolTip": "LSP\\WithLSP\\Coffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:20:12.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlackCoffee.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\LSP\\WithLSP\\BlackCoffee.cs",
+              "RelativeDocumentMoniker": "LSP\\WithLSP\\BlackCoffee.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\LSP\\WithLSP\\BlackCoffee.cs",
+              "RelativeToolTip": "LSP\\WithLSP\\BlackCoffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:19:23.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductServiceWithoutSRP.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\SRP\\ProductServiceWithoutSRP.cs",
+              "RelativeDocumentMoniker": "SRP\\ProductServiceWithoutSRP.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\SRP\\ProductServiceWithoutSRP.cs",
+              "RelativeToolTip": "SRP\\ProductServiceWithoutSRP.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:40:45.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Americano.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\LSP\\WithLSP\\Americano.cs",
+              "RelativeDocumentMoniker": "LSP\\WithLSP\\Americano.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\LSP\\WithLSP\\Americano.cs",
+              "RelativeToolTip": "LSP\\WithLSP\\Americano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:33:02.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\OCP\\WithOCP\\Salary.cs",
+              "RelativeDocumentMoniker": "OCP\\WithOCP\\Salary.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\OCP\\WithOCP\\Salary.cs",
+              "RelativeToolTip": "OCP\\WithOCP\\Salary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:43:11.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\OCP\\WithOCP\\Worker.cs",
+              "RelativeDocumentMoniker": "OCP\\WithOCP\\Worker.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\OCP\\WithOCP\\Worker.cs",
+              "RelativeToolTip": "OCP\\WithOCP\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:43:09.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DirectorWithoutOCP.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\OCP\\WithoutOCP\\DirectorWithoutOCP.cs",
+              "RelativeDocumentMoniker": "OCP\\WithoutOCP\\DirectorWithoutOCP.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\OCP\\WithoutOCP\\DirectorWithoutOCP.cs",
+              "RelativeToolTip": "OCP\\WithoutOCP\\DirectorWithoutOCP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:42:49.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SalaryWithoutOCP.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\OCP\\WithoutOCP\\SalaryWithoutOCP.cs",
+              "RelativeDocumentMoniker": "OCP\\WithoutOCP\\SalaryWithoutOCP.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\OCP\\WithoutOCP\\SalaryWithoutOCP.cs",
+              "RelativeToolTip": "OCP\\WithoutOCP\\SalaryWithoutOCP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:43:05.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WorkerWithoutOCP.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\OCP\\WithoutOCP\\WorkerWithoutOCP.cs",
+              "RelativeDocumentMoniker": "OCP\\WithoutOCP\\WorkerWithoutOCP.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\OCP\\WithoutOCP\\WorkerWithoutOCP.cs",
+              "RelativeToolTip": "OCP\\WithoutOCP\\WorkerWithoutOCP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:43:06.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SellingService.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\SRP\\SellingService.cs",
+              "RelativeDocumentMoniker": "SRP\\SellingService.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\SRP\\SellingService.cs",
+              "RelativeToolTip": "SRP\\SellingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:55:32.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Selling.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\SRP\\Selling.cs",
+              "RelativeDocumentMoniker": "SRP\\Selling.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\SRP\\Selling.cs",
+              "RelativeToolTip": "SRP\\Selling.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:40:46.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductServiceSRP.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\SRP\\ProductServiceSRP.cs",
+              "RelativeDocumentMoniker": "SRP\\ProductServiceSRP.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\SRP\\ProductServiceSRP.cs",
+              "RelativeToolTip": "SRP\\ProductServiceSRP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:40:43.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\SRP\\Product.cs",
+              "RelativeDocumentMoniker": "SRP\\Product.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\SRP\\Product.cs",
+              "RelativeToolTip": "SRP\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:40:44.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\OCP\\WithOCP\\IEmployee.cs",
+              "RelativeDocumentMoniker": "OCP\\WithOCP\\IEmployee.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\OCP\\WithOCP\\IEmployee.cs",
+              "RelativeToolTip": "OCP\\WithOCP\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:45:16.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Director.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\OCP\\WithOCP\\Director.cs",
+              "RelativeDocumentMoniker": "OCP\\WithOCP\\Director.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\OCP\\WithOCP\\Director.cs",
+              "RelativeToolTip": "OCP\\WithOCP\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:42:10.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Latte.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\LSP\\WithoutLSP\\Latte.cs",
+              "RelativeDocumentMoniker": "LSP\\WithoutLSP\\Latte.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\LSP\\WithoutLSP\\Latte.cs",
+              "RelativeToolTip": "LSP\\WithoutLSP\\Latte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:42:40.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Americano.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\LSP\\WithoutLSP\\Americano.cs",
+              "RelativeDocumentMoniker": "LSP\\WithoutLSP\\Americano.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\LSP\\WithoutLSP\\Americano.cs",
+              "RelativeToolTip": "LSP\\WithoutLSP\\Americano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:54:39.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\LSP\\WithoutLSP\\Coffee.cs",
+              "RelativeDocumentMoniker": "LSP\\WithoutLSP\\Coffee.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\1. Hafta\\Hafta1\\LSP\\WithoutLSP\\Coffee.cs",
+              "RelativeToolTip": "LSP\\WithoutLSP\\Coffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:39:35.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

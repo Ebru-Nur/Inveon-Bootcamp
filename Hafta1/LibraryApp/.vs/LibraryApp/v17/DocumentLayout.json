@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|c:\\users\\samet\\desktop\\asd\\libraryapp\\caching\\cachingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|solutionrelative:caching\\cachingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|c:\\users\\samet\\desktop\\asd\\libraryapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|c:\\users\\samet\\desktop\\asd\\libraryapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|c:\\users\\samet\\desktop\\asd\\libraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|c:\\users\\samet\\desktop\\asd\\libraryapp\\enums\\errorcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|solutionrelative:enums\\errorcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|c:\\users\\samet\\desktop\\asd\\libraryapp\\exceptions\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|solutionrelative:exceptions\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|c:\\users\\samet\\desktop\\asd\\libraryapp\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|solutionrelative:repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|c:\\users\\samet\\desktop\\asd\\libraryapp\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|c:\\users\\samet\\desktop\\asd\\libraryapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|c:\\users\\samet\\desktop\\asd\\libraryapp\\libraryapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|solutionrelative:libraryapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|c:\\users\\samet\\desktop\\asd\\libraryapp\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|solutionrelative:entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|c:\\users\\samet\\desktop\\asd\\libraryapp\\libraryapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2661479E-19A1-48E0-B20B-7755F2EA42A7}|LibraryApp.csproj|solutionrelative:libraryapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryApp.http",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\LibraryApp.http",
+              "RelativeDocumentMoniker": "LibraryApp.http",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\LibraryApp.http",
+              "RelativeToolTip": "LibraryApp.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-09T20:03:24.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:34:09.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T19:37:41.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:34:16.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Services\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:30:48.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Repositories\\BookRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:17:38.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CachingService.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Caching\\CachingService.cs",
+              "RelativeDocumentMoniker": "Caching\\CachingService.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Caching\\CachingService.cs",
+              "RelativeToolTip": "Caching\\CachingService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:33:35.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:19:11.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibraryApp",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\LibraryApp.csproj",
+              "RelativeDocumentMoniker": "LibraryApp.csproj",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\LibraryApp.csproj",
+              "RelativeToolTip": "LibraryApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T19:15:36.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiException.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Exceptions\\ApiException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\ApiException.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Exceptions\\ApiException.cs",
+              "RelativeToolTip": "Exceptions\\ApiException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:21:25.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorCodes.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Enums\\ErrorCodes.cs",
+              "RelativeDocumentMoniker": "Enums\\ErrorCodes.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Enums\\ErrorCodes.cs",
+              "RelativeToolTip": "Enums\\ErrorCodes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:27:01.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\asd\\LibraryApp\\Entities\\Book.cs",
+              "RelativeToolTip": "Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:15:57.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
