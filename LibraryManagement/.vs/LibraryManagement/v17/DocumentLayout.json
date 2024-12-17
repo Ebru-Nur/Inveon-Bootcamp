@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\utils\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:utils\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\dto\\booklistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:dto\\booklistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\dto\\bookdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:dto\\bookdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|d:\\kodlama\\inveon\\2.hafta\\librarymanagement\\migrations\\20241215191727_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD783C7-BF66-4395-8ADF-475208017DAB}|LibraryManagement.csproj|solutionrelative:migrations\\20241215191727_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryManagement.csproj",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeDocumentMoniker": "LibraryManagement.csproj",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeToolTip": "LibraryManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T21:18:29.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:50:47.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:59:17.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRoleService.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "Interfaces\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:04:33.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "Services\\RoleService.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Services\\RoleService.cs",
+              "RelativeToolTip": "Services\\RoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:06:58.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Dto\\RoleDto.cs",
+              "RelativeDocumentMoniker": "Dto\\RoleDto.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Dto\\RoleDto.cs",
+              "RelativeToolTip": "Dto\\RoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:10:12.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDto.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:01:28.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Entities\\Role.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Entities\\Role.cs",
+              "RelativeToolTip": "Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:02:00.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:01:53.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:03:18.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:32:47.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:02:24.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:25:43.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:05:34.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Services\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:36:02.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BookRepository.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "Repository\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:36:49.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:00:46.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBookService.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:16:06.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Utils\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Utils\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Utils\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Utils\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:45:37.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookDetailsDto.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Dto\\BookDetailsDto.cs",
+              "RelativeDocumentMoniker": "Dto\\BookDetailsDto.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Dto\\BookDetailsDto.cs",
+              "RelativeToolTip": "Dto\\BookDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:01:50.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookListDto.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Dto\\BookListDto.cs",
+              "RelativeDocumentMoniker": "Dto\\BookListDto.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Dto\\BookListDto.cs",
+              "RelativeToolTip": "Dto\\BookListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:41:16.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Entities\\Book.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Entities\\Book.cs",
+              "RelativeToolTip": "Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:37:38.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBookRepository.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:28:44.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:24:26.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:31:53.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T18:42:09.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241215191727_InitialMigration.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Migrations\\20241215191727_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241215191727_InitialMigration.cs",
+              "ToolTip": "D:\\Kodlama\\Inveon\\2.Hafta\\LibraryManagement\\Migrations\\20241215191727_InitialMigration.cs",
+              "RelativeToolTip": "Migrations\\20241215191727_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:31:52.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
